@@ -122,7 +122,7 @@ Description / proposition de valeur unique
 
 * git : https://git-iut.univ-lille1.fr/bliecqa/agile_G8
 
-# Équipe 9 : Nom du projet
+# Équipe 9 : Uno
 
 Description / proposition de valeur unique
 
